@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Book",
+        "price":18.99,
+        "imgUrl":"/imgs/Book.jpg"
+    },
+    {
+        "id":2,
+        "name":"Pc",
+        "price":209.99,
+        "imgUrl":"/imgs/Pc.jpg"
+    },
+    {
+        "id":3,
+        "name":"Banana",
+        "price":0.99,
+        "imgUrl": "/imgs/Banana.jpg"
+    },
+    {
+        "id":4,
+        "name":"Car",
+        "price":8999.99,
+        "imgUrl":"/imgs/Car.jpg"
+    },
+    {
+        "id":5,
+        "name": "Soldier",
+        "price": 79.99,
+        "imgUrl":"/imgs/Soldier.jpg"
+    },
+    {
+        "id":6,
+        "name":"Photo",
+        "price":7.59,
+        "imgUrl":"/imgs/Photo.jpg"
+    },
+    {
+        "id":7,
+        "name":"X-mass tree",
+        "price":59,
+        "imgUrl":"/imgs/Christmas.jpg"
+    }
+]
